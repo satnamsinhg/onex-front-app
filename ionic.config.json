@@ -1,0 +1,7 @@
+{
+  "name": "onex-front-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
